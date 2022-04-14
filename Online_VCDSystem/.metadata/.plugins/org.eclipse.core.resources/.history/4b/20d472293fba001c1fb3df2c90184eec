@@ -1,0 +1,16 @@
+<%@page import="project.ConnectionProvider" %>
+<%@ page import="java.sql.*" %>
+<%
+try
+{
+	Connection con=ConnectionProvider.getCon();
+	Statement st = con.createStatement ;
+	String q1="create table users(name varchar(100),email varchar(100)primary key,)";
+}
+catch(Exception e){
+	
+}
+
+
+
+%>

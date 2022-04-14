@@ -1,0 +1,9 @@
+127.0.0.1 - - [12/Apr/2022:13:10:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Apr/2022:13:10:39 +0530] "GET /Online_VCDSystem/signup.jsp HTTP/1.1" 200 1537
+0:0:0:0:0:0:0:1 - - [12/Apr/2022:13:10:39 +0530] "GET /Online_VCDSystem/css/signup-style.css HTTP/1.1" 200 1810
+0:0:0:0:0:0:0:1 - - [12/Apr/2022:13:11:09 +0530] "POST /Online_VCDSystem/signup.jsp HTTP/1.1" 200 1537
+0:0:0:0:0:0:0:1 - - [12/Apr/2022:13:12:15 +0530] "POST /Online_VCDSystem/signup.jsp HTTP/1.1" 200 1531
+0:0:0:0:0:0:0:1 - - [12/Apr/2022:13:12:15 +0530] "GET /Online_VCDSystem/css/signup-style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Apr/2022:13:12:44 +0530] "POST /Online_VCDSystem/signup.jsp HTTP/1.1" 200 1526
+127.0.0.1 - - [12/Apr/2022:14:37:25 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Apr/2022:14:37:31 +0530] "GET /Online_VCDSystem/table/create_tables.jsp HTTP/1.1" 200 6
